@@ -1,4 +1,4 @@
-[![Video Label](http://img.youtube.com/vi/i4lIowzN4JE/0.jpg)]
+[![DEC](http://img.youtube.com/vi/i4lIowzN4JE/0.jpg)](https://youtu.be/i4lIowzN4JE?t=0s) 
 
 ![1](https://github.com/Sulwon/project_DEC/assets/54029707/d537b061-c723-46ca-8dff-9484dfcf9f2b)
 ![2](https://github.com/Sulwon/project_DEC/assets/54029707/5cdafef1-4b3b-4bf4-b30e-42f858db47ae)
